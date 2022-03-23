@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Audre Lorde",
+    "avatar": "audre_lorde",
+    "email": "audrelorde@email.com",
+    "phone": "1-770-736-8031",
+    "bio": "Commodo fugiat aliqua reprehenderit nostrud proident non proident ut velit Lorem Lorem officia. Sunt nostrud fugiat voluptate commodo do aliquip consequat. Laborum in nostrud laboris nostrud eiusmod. Fugiat ad laborum aliqua duis do eiusmod dolor fugiat esse nostrud deserunt."
+  },
+  {
+    "id": 2,
+    "name": "Du Bois",
+    "avatar": "du_bois",
+    "email": "dubois@email.com",
+    "phone": "1-463-123-4447",
+    "bio": "Aliqua fugiat amet est magna veniam eiusmod eu deserunt. Ex sit velit mollit excepteur. Deserunt sint nisi nisi incididunt nostrud incididunt cillum cillum proident nisi elit eu laborum duis. Quis aliquip laboris amet labore laboris officia labore sit exercitation duis cillum nostrud officia."
+  },
+  {
+    "id": 3,
+    "name": "Belle Hooks",
+    "avatar": "belle_hooks",
+    "email": "bellehooks@email.com",
+    "phone": "010-692-6593 x09125",
+    "bio": "Anim elit commodo amet velit officia voluptate veniam anim occaecat sint fugiat ex nostrud. Incididunt fugiat non sunt minim sunt velit tempor do enim aute reprehenderit mollit reprehenderit aliqua. Sunt exercitation culpa est qui sint ea laborum ipsum sunt nulla."
+  },
+  {
+    "id": 4,
+    "name": "James Baldwin",
+    "avatar": "james_baldwin",
+    "email": "jamesbaldwin@email.com",
+    "phone": "1-477-935-8478 x6430",
+    "bio": "Enim eu labore elit laboris voluptate amet mollit. Ex adipisicing ut dolor deserunt eu ex sint dolore sint consequat duis nisi nisi. Elit ad mollit quis ipsum  non non velit proident ea deserunt. Cillum culpa veniam nisi dolor Lorem eu anim labore quis in voluptate commodo dolor aute."
+  },
+  {
+    "id": 5,
+    "name": "Maya Angelou",
+    "avatar": "maya_angelou",
+    "email": "mayaangelou@email.com",
+    "phone": "493-170-9623 x156",
+    "bio": "Exercitation proident adipisicing enim ullamco esse officia veniam et proident in irure nulla. Anim irure aute amet nostrud sit non commodo. Nostrud elit sit consectetur dolore ipsum enim amet elit culpa nisi deserunt laborum incididunt. Occaecat aliqua magna excepteur exercitation aliquip et elit."
+  },
+  {
+    "id": 6,
+    "name": "Lanston Hughes",
+    "avatar": "lanston_hughes",
+    "email": "lanston_hughes@email.com",
+    "phone": "093-2219-A323 45",
+    "bio": "Sunt consequat id laboris dolor nisi deserunt voluptate ullamco cillum Lorem irure id. Fugiat tempor commodo reprehenderit pariatur velit aliqua. Nisi quis ea ea cupidatat non adipisicing. Officia officia est dolor eiusmod labore fugiat fugiat non ad aute nostrud ut."
+  }
+]

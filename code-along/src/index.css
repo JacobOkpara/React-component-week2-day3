@@ -49,11 +49,25 @@ h1 {
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   margin: 20px auto;
   max-width: 300px;
   background: coral;
+  border-radius: 2px;
   box-shadow: 3px 2px 3px silver;
   transition: all 0.3s ease-in-out;
+}
+
+.cardContent {
+  height: 300px;
+}
+
+.bioWrap {
+  color: whitesmoke;
+  margin: 15px;
+  text-align: justify;
 }
 
 .card:hover {
